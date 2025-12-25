@@ -1,4 +1,5 @@
 print("saalam")
 print("saalam")
 print("saalam")
+print("Бул -> sanjar Ведкасы")
 print("saalam")
